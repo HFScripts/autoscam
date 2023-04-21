@@ -8,12 +8,13 @@ https://gist.github.com/htkcodes/f11eea99bd125064580d21725ed36e73
 ## Requirements
 In order to use this script, you will need to have the following Python libraries installed:
 
-re
-requests
-BeautifulSoup
+1. re
+2. requests
+3. BeautifulSoup
+
 You will also need to have the dirsearch tool installed on your system, which can be downloaded from the following GitHub repository: https://github.com/maurosoria/dirsearch
 
-Usage
+## Usage
 To use the script, simply copy and paste the code into a Python file and specify the necessary parameters in the wordlist_file, start_number, and end_number variables at the top of the script.
 
 The wordlist_file variable should be set to the path of a wordlist file that dirsearch can use for directory scanning.
